@@ -1,0 +1,31 @@
+body{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+  background-color:#ffffff;
+}
+.bgimage{
+  background-image:url("backgroundimage.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.nav-link:hover{
+  background-color:#34B3F1;
+  border:2px solid #000000;
+  border-radius:10px;
+}
+.display{
+  position:absolute;
+  margin-top: 15%;
+  margin-left:4%;
+  font-size: 2.5em;
+  font-weight: 200;
+}
+.dis{
+  border-radius:10px;
+  border-color: black;
+  color:white;
+  background:black;
+  font-weight:700;
+}
